@@ -1,2 +1,3 @@
 # LCM_clustering
-We proposed a clustering technique called Characteristics Based Least Common Multiple (LCM) clustering technique to perform clustering for indoor localization. 
+
+Introducing the Characteristics-Based Least Common Multiple (LCM) Clustering Technique for Indoor Localization.
